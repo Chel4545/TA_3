@@ -1,0 +1,4 @@
+robot-game/.idea
+robot-game/.venv
+robot-game/.venv-wsl
+cmake-build-debug
